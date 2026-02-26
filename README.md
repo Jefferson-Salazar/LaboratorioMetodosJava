@@ -13,7 +13,8 @@ Este proyecto consiste en el desarrollo de un programa en Java que integra múlt
 7. Cálculo de factorial  
 8. Juego de adivinanza  
 9. Paso por referencia  
-10. Tabla de multiplicar  
+10. Tabla de multiplicar
+    
 
 Nombre: Jefferson Osberto Salazar Escobar
 
