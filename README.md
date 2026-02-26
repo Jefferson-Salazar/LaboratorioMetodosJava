@@ -16,4 +16,5 @@ Este proyecto consiste en el desarrollo de un programa en Java que integra múlt
 10. Tabla de multiplicar
     
  Nombre: Jefferson Osberto Salazar Escobar
+
  Curso: Programación I
